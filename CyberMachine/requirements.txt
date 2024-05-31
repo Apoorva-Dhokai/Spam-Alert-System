@@ -1,0 +1,5 @@
+numpy
+pandas
+pefile
+pyfiglet
+scikit_learn
